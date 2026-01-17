@@ -116,7 +116,9 @@ Windows
 
 ## Response:
 
+```bash
 {
 "message": "Release notes generated.",
 "pdf_url": "/pdf/ZOOKEEPER_v3.9.0_release_notes.pdf"
 }
+```
