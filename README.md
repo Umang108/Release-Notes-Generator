@@ -34,14 +34,13 @@ Release-Notes-Generator/
 │ ├── __init__.py
 │ ├── jira_agent.py
 │ ├── github_agent.py
-│ ├── guardrails.py
 │ └── app.py
 │
 ├── chat-ui/
 │
 ├── generated_pdfs/
 │
-├── jira_mcp_server.py
+├── mcp_server.py
 ├── requirements.txt
 ├── README.md
 └── .env
