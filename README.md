@@ -27,6 +27,7 @@ Apache JIRA issues (project + fixVersion)
 
 ## 📂 Project Structure
 
+```bash
 Release-Notes-Generator/
 │
 ├── app/
@@ -44,6 +45,7 @@ Release-Notes-Generator/
 ├── requirements.txt
 ├── README.md
 └── .env
+```
 
 ## ⚙️ Environment Variables
 
