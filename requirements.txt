@@ -9,3 +9,4 @@ langchain-core
 langchain-groq
 openai
 tqdm
+langchain-mcp-adapters

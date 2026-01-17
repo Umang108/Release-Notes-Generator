@@ -9,6 +9,6 @@ const api = axios.create({
 
 export const sendQuery = (message) => {
     return api.post("/query", {
-        message: message,   // ✅ EXACT MATCH WITH BACKEND
+        message: message,
     });
 };
