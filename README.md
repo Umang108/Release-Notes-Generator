@@ -31,7 +31,7 @@ Apache JIRA issues (project + fixVersion)
 Release-Notes-Generator/
 │
 ├── app/
-│ ├── **init**.py
+│ ├── __init__.py
 │ ├── jira_agent.py
 │ ├── github_agent.py
 │ ├── guardrails.py
